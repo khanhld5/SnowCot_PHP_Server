@@ -1,19 +1,19 @@
 {
-    "name": "leduy/snow-cot-server",
-    "description": "api-server",
-    "type": "project",
-    "license": "lekhanh-dev-ver.01",
-    "autoload": {
-        "psr-4": {
-            "Leduy\\SnowCotServer\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "lekhanh",
-            "email": "leduykhanh1997pt@gmail.com"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {}
+  "name": "leduy/snow-cot-server",
+  "description": "api-server",
+  "type": "project",
+  "license": "lekhanh-dev-ver.01",
+  "autoload": {
+    "psr-4": {
+      "Leduy\\SnowCotServer\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "lekhanh",
+      "email": "leduykhanh1997pt@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
 }
